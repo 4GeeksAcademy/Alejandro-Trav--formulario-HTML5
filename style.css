@@ -1,0 +1,19 @@
+input[type=radio] {
+    width: 10px;
+    height: 10px;
+}
+.row {
+    --bs-gutter-x: 0;
+}
+.state{
+    padding-left: 12px;
+}
+.city{
+    padding-right: 12px;
+}
+.textarea{
+    padding-left: 13px;
+}
+.footer{
+    text-align: right;
+}
